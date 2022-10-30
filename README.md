@@ -17,7 +17,15 @@ yarn hardhat
 ```
 and create a javascripts project
 
-also you can clone all the code in the repo by runing :
+after you finished the backend you can start with front end using nextjs 
+``` 
+npx create-next-app@latest
 ```
-git clone https://github.com/kazimwale/DAO-learnweb3/new/main?readme=1 
+
+or you can clone all the code in repo by runing : 
 ```
+https://github.com/kazimwale/DAO-learnweb3/
+```
+
+enjoy your journey !
+
